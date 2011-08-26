@@ -1,0 +1,7 @@
+name: UnColor
+main: net.turbogoat.UnColor.UnColor
+version: 0.1
+commands:
+   uc:
+      description: UnColor enable/disable command
+      usage: <command>
