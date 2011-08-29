@@ -1,0 +1,13 @@
+0.4:
+   Added the recolor/recolor quick commands, with permissions (PEX). Now you can punch those
+   wool blocks black and blue. Or green. Or orange. Up to you.
+   
+0.3: 
+   Added colors to the on/off messages
+
+0.2:
+   Added a single-block quick mode, for when you just need to punch one block.
+
+0.1:
+   Initial version, just an on/off toggle for punching blocks so hard they turn white
+ 

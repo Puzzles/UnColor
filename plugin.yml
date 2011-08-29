@@ -1,7 +1,19 @@
 name: UnColor
 main: net.turbogoat.UnColor.UnColor
-version: 0.1
+version: 0.4
 commands:
    uc:
       description: UnColor enable/disable command
       usage: <command>
+   ucq:
+      description: UnColor (Quick) enable/cancel command
+      usage: <command>
+   rc:
+      description: ReColor enable/disable command
+      usage: <command> [color]
+   rcq:
+      description: ReColor (Quick) enable/cancel command
+      usage: <command> [color]
+   rclist:
+      description: ReColor color list
+      usage: <command> [color]
